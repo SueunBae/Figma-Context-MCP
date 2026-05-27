@@ -35,4 +35,6 @@ test-output
 
 # OS
 .DS_Store
-Thumbs.dbscripts/daily-papers/__pycache__
+Thumbs.db
+__pycache__/
+*.pyc
