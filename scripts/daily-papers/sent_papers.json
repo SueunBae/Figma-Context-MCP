@@ -1,4 +1,14 @@
 {
-  "sent_ids": [],
-  "history": []
+  "sent_ids": [
+    "5de0fe2053d3dfa4e78a259f38e67c81588ee435"
+  ],
+  "history": [
+    {
+      "date": "2026-05-28",
+      "paper_ids": [
+        "5de0fe2053d3dfa4e78a259f38e67c81588ee435"
+      ],
+      "issue_number": 2
+    }
+  ]
 }
