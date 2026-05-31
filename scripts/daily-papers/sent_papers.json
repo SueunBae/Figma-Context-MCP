@@ -1,7 +1,9 @@
 {
   "sent_ids": [
     "5de0fe2053d3dfa4e78a259f38e67c81588ee435",
-    "ff0222a575755676514e12f27c1227c7697f9666"
+    "ff0222a575755676514e12f27c1227c7697f9666",
+    "3a961da396d3b7f82817cc40d4e2cc43ff652f29",
+    "79c4dd5efc930d19e70cbafc73aec74281e0d381"
   ],
   "history": [
     {
@@ -17,6 +19,14 @@
         "ff0222a575755676514e12f27c1227c7697f9666"
       ],
       "issue_number": 3
+    },
+    {
+      "date": "2026-05-31",
+      "paper_ids": [
+        "3a961da396d3b7f82817cc40d4e2cc43ff652f29",
+        "79c4dd5efc930d19e70cbafc73aec74281e0d381"
+      ],
+      "issue_number": 4
     }
   ]
 }
