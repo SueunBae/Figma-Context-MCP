@@ -9,7 +9,9 @@
     "af2ecb5b21781dc34fb9face7666780838c8f423",
     "08d1200a2b9436ab7f5a77b0fcf44f325823f8c5",
     "67d03247e588fd32bab49ac78c2f7dc2e2e15144",
-    "93b604d362a9b2946d7f4360f9896c8eccabbd25"
+    "93b604d362a9b2946d7f4360f9896c8eccabbd25",
+    "4d6bdb09d2b27f2231ff09b79b6b6b5ba3c3fdb3",
+    "3163627afeff44d946e6228cfa633a4badfa0606"
   ],
   "history": [
     {
@@ -57,6 +59,14 @@
         "93b604d362a9b2946d7f4360f9896c8eccabbd25"
       ],
       "issue_number": 7
+    },
+    {
+      "date": "2026-06-13",
+      "paper_ids": [
+        "4d6bdb09d2b27f2231ff09b79b6b6b5ba3c3fdb3",
+        "3163627afeff44d946e6228cfa633a4badfa0606"
+      ],
+      "issue_number": 8
     }
   ]
 }
